@@ -7,10 +7,9 @@ Built for the tech in the field and the QA eye back at the desk: every asset
 has a record, every record has evidence, and nothing is left to memory or a
 paper note.
 
-> **Live status — read this first:** This v2 build is **NOT pushed and NOT
-> live**. The repo **does not exist yet** — `AntManThePro/my-nexperimental-kef`
-> will be created later, on Anthony's go. **Claim no live URL** for this
-> build. The old live site (`my-kef.netlify.app`) still serves the old build.
+> **Live status:** This build is live — see the Live line above. Deploys
+> come from `main` with auto-publishing on. The old live site
+> (`my-kef.netlify.app`) still serves the old build.
 
 ## What it does
 
