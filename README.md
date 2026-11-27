@@ -1,4 +1,5 @@
 # NEXUS ARCHIVE // MY KEF — v2
+Live: https://my-nexperimental-kef.netlify.app
 
 QR-linked kitchen-exhaust asset intelligence — the registry, passport,
 diagnostics, and service history for hood and fan systems, in one place.
